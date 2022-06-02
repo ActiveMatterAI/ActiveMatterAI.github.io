@@ -1,4 +1,4 @@
-## ActiveMatter AI
+# ActiveMatter AI
 
 ### Our Mission
 
