@@ -1,5 +1,7 @@
 ## ActiveMatter AI
 
+### Our Mission
+
 Inspired by the rapidly growing capabilities of artificial intelligence in medicine, we at ActiveMatter AI are dedicated to developing and deploying cutting edge algorithmic technology to improve protein-based drug discovery pipelines. Ultimatley, we hope that our technology can aid in the discovery of life-saving drugs.
 
 ### What we do?
