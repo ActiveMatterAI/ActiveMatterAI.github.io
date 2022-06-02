@@ -13,4 +13,7 @@ Using cutting-edge techniques in protein language model development, ActiveMatte
 
 ### Who are we?
 
-ActiveMatter AI was founded at UC Berkeley by a team of research scientists and engineers committed to improving the drug discovery pipeline using artificial intelligence. 
+ActiveMatter AI was founded at UC Berkeley by a team of research scientists and engineers committed to improving the drug discovery pipeline using artificial intelligence.
+
+### Contact 
+For any inquiries about ActiveMatter AI, please contact [activematterai@gmail.com](mailto:activematterai@gmail.com).
